@@ -36,9 +36,5 @@ public class RectangleTest
         System.out.println(Rectangle.getPerimeter(w, h));
     }
 
-    @Test
-    public void classATest() {
-        ClassA objA = new ClassA();
-        System.out.println(objA.getStrA());
-    }
+
 }
